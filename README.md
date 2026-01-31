@@ -1,6 +1,6 @@
 # Cable Detection and Segmentation
 
-**Authors:** Agazio Geracitano, Vittorio Iusi
+**Authors:** Agazio Geracitano, Vittorio Iusi.
 **Context:** Computer Vision Course - University of Calabria (2025/2026)
 
 ## Project Overview
